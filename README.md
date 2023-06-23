@@ -1,3 +1,3 @@
 # UAS_Machine-Learning
-Nama : Lutfiana Erniasari 
-NIM  : 1103204029   
+# Nama : Lutfiana Erniasari
+# NIM  : 1103204029   
