@@ -1,3 +1,3 @@
-# UAS_Machine-Learning
-# Nama : Lutfiana Erniasari
-# NIM  : 1103204029   
+# 🧷Machine-Learning🧷
+# Project_2023 🎶
+# Lutfiana Erniasari_1103204029   
